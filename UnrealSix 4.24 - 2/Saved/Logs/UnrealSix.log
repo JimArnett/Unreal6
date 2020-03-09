@@ -1025,3 +1025,159 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.03.09-03.56.36:573][978]LogSavePackage: Moving '../../../../../../Users/Ethan Godwin/Desktop/GitHub repository/Unreal6/UnrealSix 4.24 - 2/Saved/FirstPersonExampleMap9CC859B94308B2D575D89A898C85DA4E.tmp' to '../../../../../../Users/Ethan Godwin/Desktop/GitHub repository/Unreal6/UnrealSix 4.24 - 2/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
 [2020.03.09-03.56.36:667][978]AssetCheck: New page: Asset Save: FirstPersonExampleMap
 [2020.03.09-03.56.36:667][978]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2020.03.09-04.06.36:228][251]LogUObjectHash: Compacting FUObjectHashTables data took   5.45ms
+[2020.03.09-04.06.36:233][251]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.099
+[2020.03.09-04.06.36:234][251]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter] ([1] browsable assets)...
+[2020.03.09-04.06.36:308][251]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter]
+[2020.03.09-04.06.36:308][251]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter]
+[2020.03.09-04.06.37:075][251]LogSavePackage: Moving '../../../../../../Users/Ethan Godwin/Desktop/GitHub repository/Unreal6/UnrealSix 4.24 - 2/Saved/FirstPersonCharacter_Auto2399AD5044033D1F354F27997F34B07C7.tmp' to '../../../../../../Users/Ethan Godwin/Desktop/GitHub repository/Unreal6/UnrealSix 4.24 - 2/Saved/Autosaves/Game/FirstPersonBP/Blueprints/FirstPersonCharacter_Auto2.uasset'
+[2020.03.09-04.06.37:080][251]LogFileHelpers: Auto-saving content packages took 0.847
+[2020.03.09-04.07.27:122][564]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Ethan Godwin\Downloads\EnemiesIncoming\EnemiesIncoming\EnemiesIncoming2.png)
+[2020.03.09-04.07.27:147][564]LogTexture: Display: Building textures: EnemiesIncoming2 (AutoDXT, 800X400)
+[2020.03.09-04.07.27:197][564]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Ethan Godwin\Downloads\EnemiesIncoming\EnemiesIncoming\EnemiesIncoming3.png)
+[2020.03.09-04.07.27:207][564]LogTexture: Display: Building textures: EnemiesIncoming3 (AutoDXT, 800X400)
+[2020.03.09-04.07.27:259][564]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Ethan Godwin\Downloads\EnemiesIncoming\EnemiesIncoming\EnemiesIncoming4.png)
+[2020.03.09-04.07.27:270][564]LogTexture: Display: Building textures: EnemiesIncoming4 (AutoDXT, 800X400)
+[2020.03.09-04.07.27:325][564]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Ethan Godwin\Downloads\EnemiesIncoming\EnemiesIncoming\EnemiesIncoming5.png)
+[2020.03.09-04.07.27:336][564]LogTexture: Display: Building textures: EnemiesIncoming5 (AutoDXT, 800X400)
+[2020.03.09-04.07.27:388][564]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Ethan Godwin\Downloads\EnemiesIncoming\EnemiesIncoming\EnemiesIncoming1.png)
+[2020.03.09-04.07.27:398][564]LogTexture: Display: Building textures: EnemiesIncoming1 (AutoDXT, 800X400)
+[2020.03.09-04.07.32:372][915]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/UIBlueprint.UIBlueprint
+[2020.03.09-04.16.02:497][602]LogEditorTransaction: Undo Resize Widget
+[2020.03.09-04.16.02:931][609]LogEditorTransaction: Undo Add Widget
+[2020.03.09-04.16.12:015][166]LogEditorTransaction: Undo Resize Widget
+[2020.03.09-04.16.15:767][363]LogEditorTransaction: Undo Resize Widget
+[2020.03.09-04.16.27:381][ 15]LogEditorTransaction: Undo Resize Widget
+[2020.03.09-04.16.32:783][304]LogEditorTransaction: Undo Resize Widget
+[2020.03.09-04.16.33:190][311]LogEditorTransaction: Undo Move Widget
+[2020.03.09-04.16.36:775][478]LogEditorTransaction: Undo Move Widget
+[2020.03.09-04.16.37:409][492]LogEditorTransaction: Undo Resize Widget
+[2020.03.09-04.16.40:728][683]LogEditorTransaction: Undo Resize Widget
+[2020.03.09-04.16.49:971][201]LogEditorTransaction: Undo Resize Widget
+[2020.03.09-04.18.24:428][399]LogEditorTransaction: Undo Resize Widget
+[2020.03.09-04.19.16:530][183]LogEditorTransaction: Undo Set Key Value
+[2020.03.09-04.19.22:145][468]LogEditorTransaction: Redo Set Key Value
+[2020.03.09-04.19.29:805][862]LogEditorTransaction: Undo Move Keys or Sections
+[2020.03.09-04.19.50:328][ 19]LogEditorTransaction: Undo Resize section
+[2020.03.09-04.19.52:450][119]LogEditorTransaction: Undo Set Key Value
+[2020.03.09-04.20.08:128][991]LogEditorTransaction: Undo Move Keys or Sections
+[2020.03.09-04.20.13:496][271]LogEditorTransaction: Undo Add Keys at Current Time
+[2020.03.09-04.20.14:397][301]LogEditorTransaction: Undo Animatable Property Changed
+[2020.03.09-04.22.26:013][545]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UIBlueprint" FILE="../../../../../../Users/Ethan Godwin/Desktop/GitHub repository/Unreal6/UnrealSix 4.24 - 2/Content/UI/UIBlueprint.uasset" SILENT=true
+[2020.03.09-04.22.26:300][545]LogSavePackage: Moving '../../../../../../Users/Ethan Godwin/Desktop/GitHub repository/Unreal6/UnrealSix 4.24 - 2/Saved/UIBlueprint9A4A312B4B7E642028449190447B5071.tmp' to '../../../../../../Users/Ethan Godwin/Desktop/GitHub repository/Unreal6/UnrealSix 4.24 - 2/Content/UI/UIBlueprint.uasset'
+[2020.03.09-04.22.26:329][545]AssetCheck: New page: Asset Save: UIBlueprint
+[2020.03.09-04.22.26:329][545]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/UIBlueprint.UIBlueprint
+[2020.03.09-04.22.29:269][698]BlueprintLog: New page: Compile UIBlueprint
+[2020.03.09-04.22.29:484][698]LogUObjectHash: Compacting FUObjectHashTables data took   7.00ms
+[2020.03.09-04.22.41:254][938]LogSlate: Window 'UIBlueprint' being destroyed
+[2020.03.09-04.22.41:266][938]LogSlate: Window 'UIBlueprint' being destroyed
+[2020.03.09-04.22.41:361][938]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2020.03.09-04.22.41:361][938]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.09-04.22.41:445][938]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2020.03.09-04.22.41:446][938]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.09-04.22.42:372][  5]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.09-04.22.42:400][  5]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.03.09-04.22.42:401][  5]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.09-04.22.42:401][  5]PIE: New page: PIE session: FirstPersonExampleMap (Mar 8, 2020, 8:22:42 PM)
+[2020.03.09-04.22.42:401][  5]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.03.09-04.22.42:473][  5]LogPlayLevel: PIE: StaticDuplicateObject took: (0.072476s)
+[2020.03.09-04.22.42:475][  5]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.03.09-04.22.42:476][  5]LogPlayLevel: PIE: World Init took: (0.002166s)
+[2020.03.09-04.22.42:476][  5]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.074819s)
+[2020.03.09-04.22.42:571][  5]LogUObjectHash: Compacting FUObjectHashTables data took   7.48ms
+[2020.03.09-04.22.42:575][  5]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.09-04.22.42:575][  5]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.09-04.22.42:575][  5]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.09-04.22.42:576][  5]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.09-04.22.42:576][  5]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.09-04.22.42:576][  5]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.09-04.22.42:576][  5]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.09-04.22.42:576][  5]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.09-04.22.42:576][  5]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.09-04.22.42:576][  5]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.09-04.22.42:699][  5]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.09-04.22.42:699][  5]LogAudioMixer: Display: Name: Speakers (Logitech G633 Gaming Headset)
+[2020.03.09-04.22.42:699][  5]LogAudioMixer: Display: Is Default: Yes
+[2020.03.09-04.22.42:699][  5]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.09-04.22.42:699][  5]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.09-04.22.42:700][  5]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.09-04.22.42:700][  5]LogAudioMixer: Display: Channel Order:
+[2020.03.09-04.22.42:700][  5]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.09-04.22.42:700][  5]LogAudioMixer: Display: 1: FrontRight
+[2020.03.09-04.22.42:719][  5]LogAudioMixer: Display: Using Audio Device Speakers (Logitech G633 Gaming Headset)
+[2020.03.09-04.22.42:722][  5]LogInit: FAudioDevice initialized.
+[2020.03.09-04.22.42:733][  5]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.03.09-04.22.42:739][  5]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2020.03.09-00.22.42
+[2020.03.09-04.22.42:740][  5]LogWorld: Bringing up level for play took: 0.006027
+[2020.03.09-04.22.42:740][  5]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2020.03.09-04.22.42:746][  5]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0.803
+[2020.03.09-04.22.42:746][  5]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.03.09-04.22.56:882][492]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.09-04.22.56:888][492]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.03.09-04.22.56:908][492]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.03.09-04.22.56:908][492]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.03.09-04.22.56:908][492]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.09-04.22.56:908][492]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.03.09-04.22.56:908][492]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.09-04.22.56:908][492]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.03.09-04.22.56:910][492]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.09-04.22.56:921][492]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.09-04.22.56:921][492]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.03.09-04.22.56:928][492]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.09-04.22.57:003][492]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.09-04.22.57:008][492]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.09-04.22.57:015][492]LogUObjectHash: Compacting FUObjectHashTables data took   5.35ms
+[2020.03.09-04.22.57:045][493]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2020.03.09-04.23.15:279][ 92]LogUObjectHash: Compacting FUObjectHashTables data took   4.06ms
+[2020.03.09-04.23.15:937][ 92]LogSavePackage: Moving '../../../../../../Users/Ethan Godwin/Desktop/GitHub repository/Unreal6/UnrealSix 4.24 - 2/Saved/FirstPersonExampleMap46D25AF145A173E0384957A93249C5B6.tmp' to '../../../../../../Users/Ethan Godwin/Desktop/GitHub repository/Unreal6/UnrealSix 4.24 - 2/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2020.03.09-04.23.16:016][ 92]AssetCheck: New page: Asset Save: FirstPersonExampleMap
+[2020.03.09-04.23.16:016][ 92]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2020.03.09-04.23.28:209][239]LogUObjectHash: Compacting FUObjectHashTables data took   5.49ms
+[2020.03.09-04.23.33:570][239]LogSlate: Window 'Save Content' being destroyed
+[2020.03.09-04.23.33:964][239]LogSavePackage: Moving '../../../../../../Users/Ethan Godwin/Desktop/GitHub repository/Unreal6/UnrealSix 4.24 - 2/Saved/FirstPersonCharacterCB940B9D4A9E6EED525387A4AD3AD2F8.tmp' to '../../../../../../Users/Ethan Godwin/Desktop/GitHub repository/Unreal6/UnrealSix 4.24 - 2/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2020.03.09-04.23.34:058][239]LogSavePackage: Moving '../../../../../../Users/Ethan Godwin/Desktop/GitHub repository/Unreal6/UnrealSix 4.24 - 2/Saved/FirstPersonGameMode3806B63646F6BF95FB7B31A02069E90E.tmp' to '../../../../../../Users/Ethan Godwin/Desktop/GitHub repository/Unreal6/UnrealSix 4.24 - 2/Content/FirstPersonBP/Blueprints/FirstPersonGameMode.uasset'
+[2020.03.09-04.23.34:077][239]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/EnemiesIncoming1" FILE="../../../../../../Users/Ethan Godwin/Desktop/GitHub repository/Unreal6/UnrealSix 4.24 - 2/Content/UI/EnemiesIncoming1.uasset" SILENT=true
+[2020.03.09-04.23.34:117][239]LogSavePackage: Moving '../../../../../../Users/Ethan Godwin/Desktop/GitHub repository/Unreal6/UnrealSix 4.24 - 2/Saved/EnemiesIncoming18BE5354442253E066397E1AE4696A6F4.tmp' to '../../../../../../Users/Ethan Godwin/Desktop/GitHub repository/Unreal6/UnrealSix 4.24 - 2/Content/UI/EnemiesIncoming1.uasset'
+[2020.03.09-04.23.34:132][239]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/EnemiesIncoming2" FILE="../../../../../../Users/Ethan Godwin/Desktop/GitHub repository/Unreal6/UnrealSix 4.24 - 2/Content/UI/EnemiesIncoming2.uasset" SILENT=true
+[2020.03.09-04.23.34:174][239]LogSavePackage: Moving '../../../../../../Users/Ethan Godwin/Desktop/GitHub repository/Unreal6/UnrealSix 4.24 - 2/Saved/EnemiesIncoming29DEB79F34D6160078A48E9818056078C.tmp' to '../../../../../../Users/Ethan Godwin/Desktop/GitHub repository/Unreal6/UnrealSix 4.24 - 2/Content/UI/EnemiesIncoming2.uasset'
+[2020.03.09-04.23.34:187][239]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/EnemiesIncoming3" FILE="../../../../../../Users/Ethan Godwin/Desktop/GitHub repository/Unreal6/UnrealSix 4.24 - 2/Content/UI/EnemiesIncoming3.uasset" SILENT=true
+[2020.03.09-04.23.34:226][239]LogSavePackage: Moving '../../../../../../Users/Ethan Godwin/Desktop/GitHub repository/Unreal6/UnrealSix 4.24 - 2/Saved/EnemiesIncoming3376A29A242CC4CE63EE887AD56C25233.tmp' to '../../../../../../Users/Ethan Godwin/Desktop/GitHub repository/Unreal6/UnrealSix 4.24 - 2/Content/UI/EnemiesIncoming3.uasset'
+[2020.03.09-04.23.34:240][239]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/EnemiesIncoming4" FILE="../../../../../../Users/Ethan Godwin/Desktop/GitHub repository/Unreal6/UnrealSix 4.24 - 2/Content/UI/EnemiesIncoming4.uasset" SILENT=true
+[2020.03.09-04.23.34:280][239]LogSavePackage: Moving '../../../../../../Users/Ethan Godwin/Desktop/GitHub repository/Unreal6/UnrealSix 4.24 - 2/Saved/EnemiesIncoming4DDB5AF794A870972684942A1E5E2663D.tmp' to '../../../../../../Users/Ethan Godwin/Desktop/GitHub repository/Unreal6/UnrealSix 4.24 - 2/Content/UI/EnemiesIncoming4.uasset'
+[2020.03.09-04.23.34:293][239]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/EnemiesIncoming5" FILE="../../../../../../Users/Ethan Godwin/Desktop/GitHub repository/Unreal6/UnrealSix 4.24 - 2/Content/UI/EnemiesIncoming5.uasset" SILENT=true
+[2020.03.09-04.23.34:335][239]LogSavePackage: Moving '../../../../../../Users/Ethan Godwin/Desktop/GitHub repository/Unreal6/UnrealSix 4.24 - 2/Saved/EnemiesIncoming531F2D829472DDF5591124B987282306F.tmp' to '../../../../../../Users/Ethan Godwin/Desktop/GitHub repository/Unreal6/UnrealSix 4.24 - 2/Content/UI/EnemiesIncoming5.uasset'
+[2020.03.09-04.23.34:343][239]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/VisorView" FILE="../../../../../../Users/Ethan Godwin/Desktop/GitHub repository/Unreal6/UnrealSix 4.24 - 2/Content/UI/VisorView.uasset" SILENT=true
+[2020.03.09-04.23.34:665][239]LogSavePackage: Moving '../../../../../../Users/Ethan Godwin/Desktop/GitHub repository/Unreal6/UnrealSix 4.24 - 2/Saved/VisorView1207000149511EE9FBDE03B2D613C49C.tmp' to '../../../../../../Users/Ethan Godwin/Desktop/GitHub repository/Unreal6/UnrealSix 4.24 - 2/Content/UI/VisorView.uasset'
+[2020.03.09-04.23.35:056][239]LogSlate: Window 'UnrealSix - Unreal Editor' being destroyed
+[2020.03.09-04.23.35:057][239]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.03.09-04.23.35:984][239]AssetCheck: New page: Asset Save: multiple assets
+[2020.03.09-04.23.35:984][239]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2020.03.09-04.23.35:984][239]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonGameMode.FirstPersonGameMode
+[2020.03.09-04.23.35:984][239]LogContentValidation: Display: Validating Texture2D /Game/UI/EnemiesIncoming1.EnemiesIncoming1
+[2020.03.09-04.23.35:984][239]LogContentValidation: Display: Validating Texture2D /Game/UI/EnemiesIncoming2.EnemiesIncoming2
+[2020.03.09-04.23.35:984][239]LogContentValidation: Display: Validating Texture2D /Game/UI/EnemiesIncoming3.EnemiesIncoming3
+[2020.03.09-04.23.35:984][239]LogContentValidation: Display: Validating Texture2D /Game/UI/EnemiesIncoming4.EnemiesIncoming4
+[2020.03.09-04.23.35:985][239]LogContentValidation: Display: Validating Texture2D /Game/UI/EnemiesIncoming5.EnemiesIncoming5
+[2020.03.09-04.23.35:985][239]LogContentValidation: Display: Validating Texture2D /Game/UI/VisorView.VisorView
+[2020.03.09-04.23.36:076][240]Cmd: QUIT_EDITOR
+[2020.03.09-04.23.36:076][240]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2020.03.09-04.23.37:112][240]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2020.03.09-04.23.37:113][240]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.09-04.23.39:707][240]LogExit: Preparing to exit.
+[2020.03.09-04.23.41:664][240]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2020.03.09-04.23.41:664][240]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2020.03.09-04.23.41:665][240]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.03.09-04.23.41:665][240]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2020.03.09-04.23.41:665][240]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.09-04.23.41:665][240]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.09-04.23.41:665][240]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.09-04.23.41:665][240]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.09-04.23.41:665][240]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.09-04.23.41:665][240]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.09-04.23.41:665][240]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.09-04.23.41:665][240]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.03.09-04.23.41:665][240]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.03.09-04.23.43:079][240]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2020.03.09-04.23.44:401][240]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.03.09-04.23.44:443][240]LogExit: Editor shut down
+[2020.03.09-04.23.44:506][240]LogExit: Transaction tracking system shut down
